@@ -1,0 +1,11 @@
+.wrapper{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 30px;
+    width: fit-content;
+    height: fit-content;
+    position: absolute;
+    left: 50%;
+    translate: -50%;
+}
